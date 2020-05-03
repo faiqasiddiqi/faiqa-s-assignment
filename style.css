@@ -1,0 +1,112 @@
+
+body{
+  font-family: Raleway-SemiBold;
+}
+
+ .topbar{
+  background-color: #316DC3;
+ }
+
+ .buttn{
+  color: rgb(80, 187, 80);
+  font-size: 12px;
+  padding: 4px;
+}
+
+.bt{
+  margin-left: 3px;
+  padding: 8px 15px;
+  color: black;
+  font-size: 14px;
+  text-decoration: none;
+} 
+ .bt:hover{
+  background-color:#316DC3;
+  color: white;
+  border-radius: 40px;
+  text-decoration: none;
+} 
+.home{
+  
+  margin-left: 30px;
+  border-radius: 40px;
+  padding: 8px 15px;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+section{
+  text-align: center;
+  background-color: #f7f8fa;
+}
+p{
+  text-align: justify;
+}
+h2{
+  color: white;
+  font-weight: 500px;
+}
+.countr{
+  background-color: rgb(30, 84, 233);
+  margin-bottom: 60px;
+}
+h6{
+  font-weight: 600px;
+  color: white;
+}
+.textcenter{
+  margin-top: 30px;
+  margin-bottom: 55px;
+  font-size: 5px;
+} 
+.textcenter img{
+  height: 40px;
+}
+.intro-logo{
+  height:45px;
+}
+.box{
+  background-color: white;
+  height: 95%;
+  width: 100%;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  color: #316DC3;
+  box-shadow: 5px 10px 18px #888888;
+}
+.box img{
+  margin-top: 25px;
+}
+h4{
+  font-weight: 700;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  margin-top: 15px;
+}
+.bx{
+  margin-top: 16px;
+}
+.separator{
+  width: 70px;
+  height: 3px;
+  background-color: green;
+  display: block;
+}
+.text-theme-colored{
+  color: green;
+}
+footer{
+  margin-top: 150px;
+}
+.project{
+  color: #316DC3;
+  font-weight: bold;
+}
+.social{
+padding: 10px 10px;
+background-color: #316DC3;
+border-radius: 45px;
+}
+header{
+  position: sticky;
+}
